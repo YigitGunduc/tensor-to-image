@@ -43,7 +43,7 @@ After you have trained the model you can test it against 3 different criteria
 (FID, Structural similarity, Inceptoin score). 
 
 ```bash
-python3 src/test.py path/to/weights
+python3 src/evaluate.py path/to/weights
 ```
 
 ## Datasets
