@@ -1,5 +1,5 @@
 # tensor-to-image
-[Website](https://yigitgunduc.github.io/tensor2image/) | [Arxiv](https://arxiv.org/abs/1611.07004)
+[Website](https://yigitgunduc.github.io/tensor2image/) | [Arxiv](https://arxiv.org/abs/2110.08037)
 
 <img src="assets/prev.jpeg" width="900px">
 
