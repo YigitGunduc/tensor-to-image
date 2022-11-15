@@ -68,7 +68,7 @@ Dataset available though the notebooks
 - `RGB+D DATABASE`
 
 ## Cite
-If you use this code for your research, please cite our paper [Tensor-to-Image: Image-to-Image Translation with Vision Transformers](https://arxiv.org/abs/1611.07004)
+If you use this code for your research, please cite our paper [Tensor-to-Image: Image-to-Image Translation with Vision Transformers](https://arxiv.org/abs/2110.08037)
 ```           
 @article{gunducc2021tensor,
   title={Tensor-to-Image: Image-to-Image Translation with Vision Transformers},
